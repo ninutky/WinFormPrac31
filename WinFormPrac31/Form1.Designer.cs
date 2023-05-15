@@ -49,6 +49,7 @@
             this.ClientSize = new System.Drawing.Size(1091, 626);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("나눔스퀘어 ExtraBold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
