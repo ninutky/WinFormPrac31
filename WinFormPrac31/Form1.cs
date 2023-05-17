@@ -17,14 +17,9 @@ namespace WinFormPrac31
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void lblFormTitle_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+            MessageBox.Show("안녕하세요~");
         }
     }
 }
